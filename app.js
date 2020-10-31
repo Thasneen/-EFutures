@@ -12,7 +12,7 @@ const app = express();
 app.use(express.json());
 app.use(morgan('combined'));
 app.use(isAuth);
-app.use('/auth',auth)
+app.use(auth)
 const PORT = 3000;
 
 
