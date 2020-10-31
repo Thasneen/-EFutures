@@ -1,7 +1,7 @@
 # EFutures Node.JS test
 
 
-## Change .env.example to .env and run the APP 
+## Change [.env.example] to [.env] and run the APP 
 MongoDB credencials can be find it on 
 ```
 .env.example
