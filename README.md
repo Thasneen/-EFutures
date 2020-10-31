@@ -2,4 +2,6 @@
 
 To run the App
   
-    ```npm start```
+    ```
+    npm start
+    ```
